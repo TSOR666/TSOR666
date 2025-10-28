@@ -27,6 +27,8 @@ My current work explores:
 - 🌊 **Wavelet-based sparse representations** and **learnable thresholding**  
 - 🧩 **Low-rank approximation** and **structured attention** for efficient architectures  
 - ⚡ Integration of **physical priors** into **data-driven deep learning**
+- 🌀 **Riemannian Geometry** · Geometric analysis of manifolds, **curvature**, and metric learning in physical and perceptual spaces
+
 
 ---
 
@@ -47,7 +49,8 @@ My current work explores:
 ## 📚 Research Interests
 
 - **Physics-Inspired Deep Learning**  
-- **Diffusion & Optimal Transport** for visual perception  
+- **Diffusion & Optimal Transport** for visual perception
+- **Riemannian Geometry** 
 - **Wavelet-Based Neural Architectures**  
 - **Sparse & Low-Rank Representations**  
 - **Hyperspectral Image Reconstruction (HSI)**  
